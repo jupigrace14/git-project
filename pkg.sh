@@ -1,1 +1,0 @@
-apt-get vim git -y
